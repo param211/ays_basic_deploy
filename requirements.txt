@@ -98,7 +98,7 @@ psutil==5.5.1
 psycopg2==2.8.4
 psycopg2-binary==2.7.7
 pytz==2019.2
-pyxdg==0.25
+pyxdg==0.26
 PyYAML==5.1.2
 pyzmq==19.0.0
 qtconsole==4.7.2
