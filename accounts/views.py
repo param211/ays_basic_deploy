@@ -15,7 +15,7 @@ def login(request):
 
         if user is not None:
             auth.login(request, user)
-            return redirect("college")
+            return redirect("forum:index")
         else:
             messages.info(request, 'Invalid credentials. Try Again')
             return redirect('login')
