@@ -6,7 +6,6 @@ attrs==19.3.0
 Babel==2.6.0
 backcall==0.1.0
 blinker==1.4
-Brlapi==0.6.7
 certifi==2018.8.24
 cfgv==3.0.0
 chardet==3.0.4
