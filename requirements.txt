@@ -1,5 +1,4 @@
 appdirs==1.4.3
-apturl==0.5.2
 asgiref==3.2.7
 asn1crypto==0.24.0
 astroid==2.1.0
