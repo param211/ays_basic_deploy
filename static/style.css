@@ -1,0 +1,44 @@
+.NameStyle{
+    font-size: 2em;
+    font-family: 'Passion One', cursive;
+    background: whitesmoke;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.NameStyleBeta{
+    font-size: 0.5em;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background: whitesmoke;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.CustomButtonStyle{
+    background: #5a4680;
+    color: #fff;
+    border-color: transparent;
+}
+.jumbotron{
+    background-color: white; !important;
+}
+
+.AnyDoubtsResize{
+    display: block;
+    max-width: 30%;
+    height: auto;
+}
+
+.AnyDoubtsText{
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 5em;
+    background: -webkit-linear-gradient(-45deg, #511980, rgb(114, 30, 168), rgb(23, 23, 219), #3b5998);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.custom-grad{
+    background: linear-gradient(-45deg, #511980, rgb(114, 30, 168), rgb(23, 23, 219), #3b5998);
+}
+
+
+/* previous gradient: linear-gradient(-45deg, purple, rgb(163, 11, 168), rgb(23, 23, 219), #3b5998);
+linear-gradient(to right, #30CFD0 0%, #330867 100%) */
