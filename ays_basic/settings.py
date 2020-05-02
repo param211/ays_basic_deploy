@@ -73,6 +73,9 @@ MIDDLEWARE = [
     'machina.apps.forum_permission.middleware.ForumPermissionMiddleware',
 ]
 
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+SECURE_SSL_REDIRECT = True
+
 ROOT_URLCONF = 'ays_basic.urls'
 
 TEMPLATES = [
