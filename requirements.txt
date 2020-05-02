@@ -62,7 +62,7 @@ pre-commit==2.1.0
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 protobuf==3.6.1
-psutil==5.5.1
+psutil==5.6.6
 psycopg2==2.8.4
 psycopg2-binary==2.7.7
 pytz==2019.2
