@@ -14,7 +14,7 @@ coverage==5.0.3
 cryptography==2.6.1
 cycler==0.10.0
 dj-database-url==0.5.0
-Django==2.2.10
+Django==2.2.13
 django-haystack==3.0b1
 django-js-asset==1.2.2
 django-machina==1.1
